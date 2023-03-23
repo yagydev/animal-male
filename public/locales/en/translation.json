@@ -1,0 +1,54 @@
+{
+    "header": {
+        "appName": "AnimalMela"
+    },
+    "newCattle": {
+        "typeLabel": "",
+        "breedLabel": "",
+        "bargainLabel": "",
+        "milkLabel": "",
+        "milkCapacityLabel": "",
+        "animalAgeLabel": "",
+        "pregnancyLabel": "",
+        "babyLabel": "",
+        "moreDetailsLabel": "",
+        "priceLabel": "",
+        "locationLabel": "",
+        "pregnantLabel": "",
+        "type": {
+            "buffalo": "Buffalo",
+            "cow": "Cow"
+        },
+        "breed": {
+            "buffalo": {
+                "murra": "Murra",
+                "surti": "Surti",
+                "jafarabadi": ""
+            },
+            "cow": {
+                "tharparkar": "tharparkar"
+            }
+        },
+        "bargain": {
+            "true": "It is negociable",
+            "false": ""
+        },
+        "milk": "",
+        "pregnancy": {
+            "0": "not",
+            "1": "First",
+            "2": "Second",
+            "3": "Third",
+            "4": "Forth",
+            "5": "Fifth",
+            "6": "Sixth",
+            "7": "Seventh"
+        },
+        "baby": {
+            "true": "Bachhia hai",
+            "false": "Bachhia nai hai"
+        },
+        "milkCapacity": "",
+        "animalAge": ""
+    }
+}

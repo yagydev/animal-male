@@ -1,0 +1,24 @@
+.submit{
+    margin-top: 20px;
+}
+
+.uploadInput {
+    display: none;
+}
+
+.uploadPlaceholder {
+    background-image: url("/images/cow1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 180px;
+    border: 1px dashed;
+    text-align: center;
+    margin: auto;
+    display: table;
+    width: 100%;
+    h6 {
+        vertical-align:middle;
+        display: table-cell;
+    }
+
+}

@@ -1,0 +1,55 @@
+{
+    "header": {
+        "appName": "एनीमलमेला"
+    },
+    "newCattle": {
+        "typeLabel": "",
+        "breedLabel": "",
+        "bargainLabel": "",
+        "milkLabel": "",
+        "milkCapacityLabel": "",
+        "animalAgeLabel": "",
+        "pregnancyLabel": "",
+        "babyLabel": "",
+        "moreDetailsLabel": "",
+        "priceLabel": "",
+        "locationLabel": "",
+        "pregnantLabel": "",
+        "type": {
+            "buffalo": "भैंस",
+            "cow": "गाय"
+        },
+        "breed": {
+            "buffalo": {
+                "murra": "मुर्रा क्रॉस",
+                "surti": "सुरती",
+                "jafarabadi": ""
+            },
+            "cow": {
+                "tharparkar": "थारपारकर"
+            }
+        },
+        "bargain": {
+            "true": "मोल भाव हो जायेगा",
+            "false": ""
+        },
+        "milk": "",
+        "pregnancy": {
+            "0": "ब्यायी नहीं (0)",
+            "1": "पहला (1)",
+            "2": "दूसरा (2)",
+            "3": "तीसरा (3)",
+            "4": "चौथा (4)",
+            "5": "पांचवा (5)",
+            "6": "छठा (6)",
+            "7": "सातवाँ (7)"
+        },
+        "baby": {
+            "true": "बछिया है",
+            "false": "बछिया नहीं है"
+        },
+        "milkCapacity": "",
+        "animalAge": ""
+    },
+    "cattleCard": {}
+}
